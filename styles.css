@@ -1,0 +1,30 @@
+h1 {
+	font-size: 20px;
+	background-color: papayaWhip;
+	border-bottom: 3px solid #ccc000;
+}
+
+.special {
+	border: 1px solid green;
+}
+
+#tushar {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+p {
+	font-size: 20px;
+	background-color: #55555;
+}
+
+img {
+	width: 300px;
+	border: 5px;
+}
+
+body {
+	/*background-image: url(https://images.unsplash.com/photo-1436915947297-3a94186c8133?q=80&fm=jpg&s=5c943a0880b97c3c26d2fe7ae218bb5c);*/
+	background-color: #cccccc;
+}
+
