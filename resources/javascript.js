@@ -13,12 +13,12 @@ function changeImage () {
 	}	
 }
 
-$(document).ready(function() {
-  $("p").click(function(){ 
-  	// $(this).hide(); 
-   	$(this).css('color','purple'); 
-})
-});
+// $(document).ready(function() {
+//   $("p").click(function(){ 
+//   	// $(this).hide(); 
+//    	$(this).css('color','purple'); 
+// })
+// });
 
 
 // document.onclick = replaceName;
